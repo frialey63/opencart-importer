@@ -1,0 +1,10 @@
+eposNow ID
+model
+quantity
+image
+manufacturerName
+price
+attributes
+name
+description
+categoryName
